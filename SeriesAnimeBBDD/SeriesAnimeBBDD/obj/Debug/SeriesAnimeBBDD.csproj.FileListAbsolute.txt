@@ -1,0 +1,72 @@
+C:\Users\TheGixe\Downloads\u\BBDD\trabajo\SeriesAnimeBBDD\SeriesAnimeBBDD\bin\Debug\SeriesAnimeBBDD.exe.config
+C:\Users\TheGixe\Downloads\u\BBDD\trabajo\SeriesAnimeBBDD\SeriesAnimeBBDD\bin\Debug\SeriesAnimeBBDD.exe
+C:\Users\TheGixe\Downloads\u\BBDD\trabajo\SeriesAnimeBBDD\SeriesAnimeBBDD\bin\Debug\SeriesAnimeBBDD.pdb
+C:\Users\TheGixe\Downloads\u\BBDD\trabajo\SeriesAnimeBBDD\SeriesAnimeBBDD\obj\Debug\SeriesAnimeBBDD.csprojAssemblyReference.cache
+C:\Users\TheGixe\Downloads\u\BBDD\trabajo\SeriesAnimeBBDD\SeriesAnimeBBDD\obj\Debug\SeriesAnimeBBDD.Form1.resources
+C:\Users\TheGixe\Downloads\u\BBDD\trabajo\SeriesAnimeBBDD\SeriesAnimeBBDD\obj\Debug\SeriesAnimeBBDD.Properties.Resources.resources
+C:\Users\TheGixe\Downloads\u\BBDD\trabajo\SeriesAnimeBBDD\SeriesAnimeBBDD\obj\Debug\SeriesAnimeBBDD.csproj.GenerateResource.cache
+C:\Users\TheGixe\Downloads\u\BBDD\trabajo\SeriesAnimeBBDD\SeriesAnimeBBDD\obj\Debug\SeriesAnimeBBDD.csproj.CoreCompileInputs.cache
+C:\Users\TheGixe\Downloads\u\BBDD\trabajo\SeriesAnimeBBDD\SeriesAnimeBBDD\obj\Debug\SeriesAnimeBBDD.exe
+C:\Users\TheGixe\Downloads\u\BBDD\trabajo\SeriesAnimeBBDD\SeriesAnimeBBDD\obj\Debug\SeriesAnimeBBDD.pdb
+C:\Users\TheGixe\Downloads\u\BBDD\trabajo\SeriesAnimeBBDD\SeriesAnimeBBDD\obj\Debug\SeriesAnimeBBDD.Form2.resources
+C:\Users\TheGixe\Downloads\u\BBDD\trabajo\SeriesAnimeBBDD\SeriesAnimeBBDD\obj\Debug\SeriesAnimeBBDD.Form3.resources
+C:\Users\TheGixe\Downloads\u\BBDD\trabajo\SeriesAnimeBBDD\SeriesAnimeBBDD\obj\Debug\SeriesAnimeBBDD.Form7.resources
+C:\Users\TheGixe\Downloads\u\BBDD\trabajo\SeriesAnimeBBDD\SeriesAnimeBBDD\obj\Debug\SeriesAnimeBBDD.Form4.resources
+C:\Users\TheGixe\Downloads\u\BBDD\trabajo\SeriesAnimeBBDD\SeriesAnimeBBDD\obj\Debug\SeriesAnimeBBDD.Form8.resources
+C:\Users\TheGixe\Downloads\u\BBDD\trabajo\SeriesAnimeBBDD\SeriesAnimeBBDD\obj\Debug\SeriesAnimeBBDD.Form5.resources
+C:\Users\TheGixe\Downloads\u\BBDD\trabajo\SeriesAnimeBBDD\SeriesAnimeBBDD\obj\Debug\SeriesAnimeBBDD.Form9.resources
+C:\Users\TheGixe\Downloads\u\BBDD\trabajo\SeriesAnimeBBDD\SeriesAnimeBBDD\obj\Debug\SeriesAnimeBBDD.Form6.resources
+C:\Users\Elian\Desktop\full base de datos\bbdd01\SeriesAnimeBBDD\SeriesAnimeBBDD\bin\Debug\SeriesAnimeBBDD.exe.config
+C:\Users\Elian\Desktop\full base de datos\bbdd01\SeriesAnimeBBDD\SeriesAnimeBBDD\bin\Debug\SeriesAnimeBBDD.exe
+C:\Users\Elian\Desktop\full base de datos\bbdd01\SeriesAnimeBBDD\SeriesAnimeBBDD\bin\Debug\SeriesAnimeBBDD.pdb
+C:\Users\Elian\Desktop\full base de datos\bbdd01\SeriesAnimeBBDD\SeriesAnimeBBDD\obj\Debug\SeriesAnimeBBDD.csprojAssemblyReference.cache
+C:\Users\Elian\Desktop\full base de datos\bbdd01\SeriesAnimeBBDD\SeriesAnimeBBDD\obj\Debug\SeriesAnimeBBDD.Form1.resources
+C:\Users\Elian\Desktop\full base de datos\bbdd01\SeriesAnimeBBDD\SeriesAnimeBBDD\obj\Debug\SeriesAnimeBBDD.Form2.resources
+C:\Users\Elian\Desktop\full base de datos\bbdd01\SeriesAnimeBBDD\SeriesAnimeBBDD\obj\Debug\SeriesAnimeBBDD.Form3.resources
+C:\Users\Elian\Desktop\full base de datos\bbdd01\SeriesAnimeBBDD\SeriesAnimeBBDD\obj\Debug\SeriesAnimeBBDD.Form4.resources
+C:\Users\Elian\Desktop\full base de datos\bbdd01\SeriesAnimeBBDD\SeriesAnimeBBDD\obj\Debug\SeriesAnimeBBDD.Form5.resources
+C:\Users\Elian\Desktop\full base de datos\bbdd01\SeriesAnimeBBDD\SeriesAnimeBBDD\obj\Debug\SeriesAnimeBBDD.Form6.resources
+C:\Users\Elian\Desktop\full base de datos\bbdd01\SeriesAnimeBBDD\SeriesAnimeBBDD\obj\Debug\SeriesAnimeBBDD.Form7.resources
+C:\Users\Elian\Desktop\full base de datos\bbdd01\SeriesAnimeBBDD\SeriesAnimeBBDD\obj\Debug\SeriesAnimeBBDD.Form8.resources
+C:\Users\Elian\Desktop\full base de datos\bbdd01\SeriesAnimeBBDD\SeriesAnimeBBDD\obj\Debug\SeriesAnimeBBDD.Form9.resources
+C:\Users\Elian\Desktop\full base de datos\bbdd01\SeriesAnimeBBDD\SeriesAnimeBBDD\obj\Debug\SeriesAnimeBBDD.Properties.Resources.resources
+C:\Users\Elian\Desktop\full base de datos\bbdd01\SeriesAnimeBBDD\SeriesAnimeBBDD\obj\Debug\SeriesAnimeBBDD.csproj.GenerateResource.cache
+C:\Users\Elian\Desktop\full base de datos\bbdd01\SeriesAnimeBBDD\SeriesAnimeBBDD\obj\Debug\SeriesAnimeBBDD.csproj.CoreCompileInputs.cache
+C:\Users\Elian\Desktop\full base de datos\bbdd01\SeriesAnimeBBDD\SeriesAnimeBBDD\obj\Debug\SeriesAnimeBBDD.exe
+C:\Users\Elian\Desktop\full base de datos\bbdd01\SeriesAnimeBBDD\SeriesAnimeBBDD\obj\Debug\SeriesAnimeBBDD.pdb
+C:\Users\abanyi\Desktop\Proyecto guillermo and elian\SeriesAnimeBBDD\SeriesAnimeBBDD\bin\Debug\SeriesAnimeBBDD.exe.config
+C:\Users\abanyi\Desktop\Proyecto guillermo and elian\SeriesAnimeBBDD\SeriesAnimeBBDD\bin\Debug\SeriesAnimeBBDD.exe
+C:\Users\abanyi\Desktop\Proyecto guillermo and elian\SeriesAnimeBBDD\SeriesAnimeBBDD\bin\Debug\SeriesAnimeBBDD.pdb
+C:\Users\abanyi\Desktop\Proyecto guillermo and elian\SeriesAnimeBBDD\SeriesAnimeBBDD\obj\Debug\SeriesAnimeBBDD.csprojAssemblyReference.cache
+C:\Users\abanyi\Desktop\Proyecto guillermo and elian\SeriesAnimeBBDD\SeriesAnimeBBDD\obj\Debug\SeriesAnimeBBDD.Form1.resources
+C:\Users\abanyi\Desktop\Proyecto guillermo and elian\SeriesAnimeBBDD\SeriesAnimeBBDD\obj\Debug\SeriesAnimeBBDD.Form2.resources
+C:\Users\abanyi\Desktop\Proyecto guillermo and elian\SeriesAnimeBBDD\SeriesAnimeBBDD\obj\Debug\SeriesAnimeBBDD.Form3.resources
+C:\Users\abanyi\Desktop\Proyecto guillermo and elian\SeriesAnimeBBDD\SeriesAnimeBBDD\obj\Debug\SeriesAnimeBBDD.Form4.resources
+C:\Users\abanyi\Desktop\Proyecto guillermo and elian\SeriesAnimeBBDD\SeriesAnimeBBDD\obj\Debug\SeriesAnimeBBDD.Form5.resources
+C:\Users\abanyi\Desktop\Proyecto guillermo and elian\SeriesAnimeBBDD\SeriesAnimeBBDD\obj\Debug\SeriesAnimeBBDD.Form6.resources
+C:\Users\abanyi\Desktop\Proyecto guillermo and elian\SeriesAnimeBBDD\SeriesAnimeBBDD\obj\Debug\SeriesAnimeBBDD.Form7.resources
+C:\Users\abanyi\Desktop\Proyecto guillermo and elian\SeriesAnimeBBDD\SeriesAnimeBBDD\obj\Debug\SeriesAnimeBBDD.Form8.resources
+C:\Users\abanyi\Desktop\Proyecto guillermo and elian\SeriesAnimeBBDD\SeriesAnimeBBDD\obj\Debug\SeriesAnimeBBDD.Form9.resources
+C:\Users\abanyi\Desktop\Proyecto guillermo and elian\SeriesAnimeBBDD\SeriesAnimeBBDD\obj\Debug\SeriesAnimeBBDD.Properties.Resources.resources
+C:\Users\abanyi\Desktop\Proyecto guillermo and elian\SeriesAnimeBBDD\SeriesAnimeBBDD\obj\Debug\SeriesAnimeBBDD.csproj.GenerateResource.cache
+C:\Users\abanyi\Desktop\Proyecto guillermo and elian\SeriesAnimeBBDD\SeriesAnimeBBDD\obj\Debug\SeriesAnimeBBDD.csproj.CoreCompileInputs.cache
+C:\Users\abanyi\Desktop\Proyecto guillermo and elian\SeriesAnimeBBDD\SeriesAnimeBBDD\obj\Debug\SeriesAnimeBBDD.exe
+C:\Users\abanyi\Desktop\Proyecto guillermo and elian\SeriesAnimeBBDD\SeriesAnimeBBDD\obj\Debug\SeriesAnimeBBDD.pdb
+C:\Users\abanyi\Desktop\mis cosas\clases semestre 1 2020\semestre 2  2020\Proyecto guillermo and elian\SeriesAnimeBBDD\SeriesAnimeBBDD\bin\Debug\SeriesAnimeBBDD.exe.config
+C:\Users\abanyi\Desktop\mis cosas\clases semestre 1 2020\semestre 2  2020\Proyecto guillermo and elian\SeriesAnimeBBDD\SeriesAnimeBBDD\bin\Debug\SeriesAnimeBBDD.exe
+C:\Users\abanyi\Desktop\mis cosas\clases semestre 1 2020\semestre 2  2020\Proyecto guillermo and elian\SeriesAnimeBBDD\SeriesAnimeBBDD\bin\Debug\SeriesAnimeBBDD.pdb
+C:\Users\abanyi\Desktop\mis cosas\clases semestre 1 2020\semestre 2  2020\Proyecto guillermo and elian\SeriesAnimeBBDD\SeriesAnimeBBDD\obj\Debug\SeriesAnimeBBDD.csproj.AssemblyReference.cache
+C:\Users\abanyi\Desktop\mis cosas\clases semestre 1 2020\semestre 2  2020\Proyecto guillermo and elian\SeriesAnimeBBDD\SeriesAnimeBBDD\obj\Debug\SeriesAnimeBBDD.Form1.resources
+C:\Users\abanyi\Desktop\mis cosas\clases semestre 1 2020\semestre 2  2020\Proyecto guillermo and elian\SeriesAnimeBBDD\SeriesAnimeBBDD\obj\Debug\SeriesAnimeBBDD.Form2.resources
+C:\Users\abanyi\Desktop\mis cosas\clases semestre 1 2020\semestre 2  2020\Proyecto guillermo and elian\SeriesAnimeBBDD\SeriesAnimeBBDD\obj\Debug\SeriesAnimeBBDD.Form3.resources
+C:\Users\abanyi\Desktop\mis cosas\clases semestre 1 2020\semestre 2  2020\Proyecto guillermo and elian\SeriesAnimeBBDD\SeriesAnimeBBDD\obj\Debug\SeriesAnimeBBDD.Form4.resources
+C:\Users\abanyi\Desktop\mis cosas\clases semestre 1 2020\semestre 2  2020\Proyecto guillermo and elian\SeriesAnimeBBDD\SeriesAnimeBBDD\obj\Debug\SeriesAnimeBBDD.Form5.resources
+C:\Users\abanyi\Desktop\mis cosas\clases semestre 1 2020\semestre 2  2020\Proyecto guillermo and elian\SeriesAnimeBBDD\SeriesAnimeBBDD\obj\Debug\SeriesAnimeBBDD.Form6.resources
+C:\Users\abanyi\Desktop\mis cosas\clases semestre 1 2020\semestre 2  2020\Proyecto guillermo and elian\SeriesAnimeBBDD\SeriesAnimeBBDD\obj\Debug\SeriesAnimeBBDD.Form7.resources
+C:\Users\abanyi\Desktop\mis cosas\clases semestre 1 2020\semestre 2  2020\Proyecto guillermo and elian\SeriesAnimeBBDD\SeriesAnimeBBDD\obj\Debug\SeriesAnimeBBDD.Form8.resources
+C:\Users\abanyi\Desktop\mis cosas\clases semestre 1 2020\semestre 2  2020\Proyecto guillermo and elian\SeriesAnimeBBDD\SeriesAnimeBBDD\obj\Debug\SeriesAnimeBBDD.Form9.resources
+C:\Users\abanyi\Desktop\mis cosas\clases semestre 1 2020\semestre 2  2020\Proyecto guillermo and elian\SeriesAnimeBBDD\SeriesAnimeBBDD\obj\Debug\SeriesAnimeBBDD.Properties.Resources.resources
+C:\Users\abanyi\Desktop\mis cosas\clases semestre 1 2020\semestre 2  2020\Proyecto guillermo and elian\SeriesAnimeBBDD\SeriesAnimeBBDD\obj\Debug\SeriesAnimeBBDD.csproj.GenerateResource.cache
+C:\Users\abanyi\Desktop\mis cosas\clases semestre 1 2020\semestre 2  2020\Proyecto guillermo and elian\SeriesAnimeBBDD\SeriesAnimeBBDD\obj\Debug\SeriesAnimeBBDD.csproj.CoreCompileInputs.cache
+C:\Users\abanyi\Desktop\mis cosas\clases semestre 1 2020\semestre 2  2020\Proyecto guillermo and elian\SeriesAnimeBBDD\SeriesAnimeBBDD\obj\Debug\SeriesAnimeBBDD.exe
+C:\Users\abanyi\Desktop\mis cosas\clases semestre 1 2020\semestre 2  2020\Proyecto guillermo and elian\SeriesAnimeBBDD\SeriesAnimeBBDD\obj\Debug\SeriesAnimeBBDD.pdb
